@@ -1,23 +1,17 @@
-<img height= "55%" src="https://wallpapercave.com/wp/wp9314293.jpg">alt="image"<\img>
-### Hi there 👋
+![](https://raw.githubusercontent.com/Padmapiyush/Padmapiyush/main/Motivation%20March%20Banner%20(2)%20(1).png)
+![](https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif)
 
-<!--
-**Mohd-umer38656/Mohd-umer38656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mohd Umer</h1>
+<h3 align="center">A passionate frontend developer and backend devlopment from Any Country</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://visitcount.itsvg.in">
+🔭 I’m currently working on Real life Situations Game.<br><br>🌱 I’m currently learning Advance C++ And JAVA And Some Framewoeks Like Angular,Reactjs,ETC.<br><br>🙋I am a Web Devloper. And Currently I am Learning Full Stack Devlopment.
+<br><br>📫 How to reach me sahilsahil38656@gmail.com<br><br>⚡ Fun fact I think I am funny.<br><br><br><br>
+
+<br></br>
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=parshantGaur32&label=Coding%20Work&color=2&icon=0&pretty=false" />
-</a>
+</a> -->
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Mohd-umer38656) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sa_hil6189) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
