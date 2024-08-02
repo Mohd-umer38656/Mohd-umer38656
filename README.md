@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/Padmapiyush/Padmapiyush/main/Motivation%20March%20Banner%20(2)%20(1).png)
 ![](https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif)
 
 <h1 align="center">Hi 👋, I'm Mohd Umer</h1>
